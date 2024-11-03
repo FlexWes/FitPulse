@@ -1,1 +1,2 @@
 # FitPulse
+Знакомство с GitHub
